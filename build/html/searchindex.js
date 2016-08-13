@@ -1,0 +1,1 @@
+Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Dokumentasi atau catatan teknis!"],titleterms:{atau:0,catatan:0,document:[],dokumentasi:0,indice:0,tabl:0,tekni:0,welcom:[]}})
